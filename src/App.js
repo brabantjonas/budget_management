@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hello World - table 1
+      Hello World - table 2
     </div>
   );
 }
