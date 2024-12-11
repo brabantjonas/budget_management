@@ -3,9 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      Hello World
-    </div>
+      <div>
+          dit is een laatste aanpassing
+          <p>Hallo</p>
+      </div>
+
   );
 }
 
